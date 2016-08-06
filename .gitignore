@@ -1,1 +1,6 @@
 .DS_Store
+/.theos
+/packages
+/palbreaksb/.theos
+/palbreaksb/theos
+/theos
