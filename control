@@ -1,7 +1,7 @@
 Package: com.sharedroutine.palbreak
 Name: PalBreak
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: Janosch
